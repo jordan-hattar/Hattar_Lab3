@@ -16,7 +16,7 @@ import android.widget.TextView;
 import com.example.lab3.R;
 
 public class detailsFragment extends Fragment {
-
+    //can't figure out how to put the json data on here
     private DetailsViewModel mViewModel;
 
 
